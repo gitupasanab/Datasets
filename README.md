@@ -1,4 +1,4 @@
-# Datasets
+# Datasets Analysis
 This project explores 5 datasets, performing exploratory data analysis (EDA) to uncover insights and trends. Machine learning models are implemented to predict/analyze [target variable].
 # Datasets
 Source: kaggle
